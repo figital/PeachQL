@@ -19,3 +19,4 @@ Having trouble querying Peachtree or Sage 50 via ODBC? Try this !
 		tableid asc, 
 		fieldname asc
 		
+Just a few SQL scripts to help work with Peachtree / Sage 50 databases.
